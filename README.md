@@ -20,7 +20,7 @@ resource| owner
 
 # 🔨 To-Do
 - [ ] Make website responsive.
-- [ ] Add sitemap.
+- [ ] Add sitemap + request indexing.
 - [ ] Add project social media preview.
 
 ### ✔ Done
