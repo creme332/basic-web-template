@@ -4,7 +4,7 @@
 
 A concise description of the project.
 
-![GIF](gifs/gif1.gif)
+![GIF](assets/creme332.png)
 
 [▶ Live Preview]()
 
